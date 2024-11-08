@@ -11,7 +11,7 @@
  📩email: glannes10@gamil.com
  📱numero: 11 94310-4600
  📡linkedin: www.linkedin.com/in/gabriellannes
-### 🤖 Linguagens e Tecnologias
+### ✨ Linguagens e Tecnologias ✨
 
 <img 
     align="left" 
