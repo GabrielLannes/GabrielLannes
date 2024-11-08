@@ -35,5 +35,5 @@
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src=<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
