@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, eu sou o Gabriel Lannes ✌️​
 
-<!--
-**GabrielLannes/GabrielLannes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 👨‍💻 Sou um Dev Front-End.
+ 
+ 📝 Ainda estou aprimorando minha aprendizagem de JavaScript, para depois seguir para TypeScript.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 😎pronouns: ele/dele
+ 
+ 📲contatos: 
+ 
+ 📩email: glannes10@gamil.com
+ 📱numero: 11 94310-4600
+ 📡linkedin: www.linkedin.com/in/gabriellannes
