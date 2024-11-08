@@ -1,4 +1,5 @@
 ## 👨‍💻 Olá, eu sou o Gabriel Lannes ✌️​
+<br/>
 
  🤖 Sou um Dev Front-End.
  
@@ -6,12 +7,10 @@
 
  😎pronouns: ele/dele
  
- 📲contatos: 
- 
- 📩email: glannes10@gamil.com
  📱numero: 11 94310-4600
- 📡linkedin: www.linkedin.com/in/gabriellannes
-### ✨ Linguagens e Tecnologias ✨
+ 
+---
+ ### ✨ Linguagens e Tecnologias ✨
 
 <img 
     align="left" 
@@ -37,12 +36,18 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
+/> 
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=GabrielLannes&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
   />
@@ -50,7 +55,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLannes&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
