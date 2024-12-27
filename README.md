@@ -3,7 +3,7 @@
 
  🤖 Sou um Dev Front-End.
  
- 📝 Ainda estou aprimorando minha aprendizagem de JavaScript, para depois seguir para TypeScript.
+ 📝 Estou no processo de aprendizaem de Java para aprimorar minha base com uma linguagem fortemente tipada.
 
  😎pronouns: ele/dele
  
