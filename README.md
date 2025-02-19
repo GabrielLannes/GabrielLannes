@@ -1,7 +1,7 @@
 ## 👨‍💻 Olá, eu sou o Gabriel Lannes ✌️​
 <br/>
 
- 📝 Estou no processo de aprendizaem de Java para aprimorar minha base com uma linguagem fortemente tipada.
+ 📝 Estou no processo de aprendizaem de Java para aprimorar minha base com uma linguagem fortemente tipada e aprender POO.
 
  😎pronouns: ele/dele
  
