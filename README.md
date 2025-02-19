@@ -1,8 +1,6 @@
 ## 👨‍💻 Olá, eu sou o Gabriel Lannes ✌️​
 <br/>
 
- 🤖 Sou um Dev Front-End.
- 
  📝 Estou no processo de aprendizaem de Java para aprimorar minha base com uma linguagem fortemente tipada.
 
  😎pronouns: ele/dele
